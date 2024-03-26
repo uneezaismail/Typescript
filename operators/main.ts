@@ -31,7 +31,7 @@ console.log(code1 + code2);       // this will print 42   , 4 is the number and 
 let number3: number = 9;
 let number4: number = 5;
 let Difference: number = number3 - number4;
-console.log(`The Difference of ${number3} - ${number4} = ${Difference}`);   // 14
+console.log(`The Difference of ${number3} - ${number4} = ${Difference}`);   // 4
 
 
 // let a = 4
