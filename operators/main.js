@@ -21,7 +21,7 @@ console.log(code1 + code2); // this will print 42   , 4 is the number and 2 is t
 var number3 = 9;
 var number4 = 5;
 var Difference = number3 - number4;
-console.log("The Difference of ".concat(number3, " - ").concat(number4, " = ").concat(Difference)); // 14
+console.log("The Difference of ".concat(number3, " - ").concat(number4, " = ").concat(Difference)); // 4
 // let a = 4
 // let c = "2";
 // console.log(code2 - code1);   // This will throw error cuz str can not subtract from a num.
